@@ -1,0 +1,510 @@
+{
+  "guiData": {
+    "preset": "Default",
+    "closed": false,
+    "remembered": {
+      "Default": {
+        "0": {
+          "color": "#404040",
+          "intensity": 1
+        },
+        "1": {
+          "color": "#ffffff",
+          "intensity": 3.5,
+          "maxRange": 100,
+          "decay": 1
+        },
+        "2": {
+          "x": 50,
+          "y": 50,
+          "z": 50
+        },
+        "3": {
+          "color": "#ffffff",
+          "intensity": 1.8,
+          "maxRange": 100,
+          "decay": 1
+        },
+        "4": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "5": {
+          "color": "#ffffff",
+          "intensity": 1,
+          "maxRange": 100,
+          "decay": 1
+        },
+        "6": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "7": {
+          "color": "#aa444d",
+          "visible": true
+        },
+        "8": {
+          "color": "#60657a",
+          "visible": true
+        },
+        "9": {
+          "color": "#ffc400",
+          "visible": true
+        },
+        "10": {
+          "color": "#87c5e0",
+          "visible": true
+        },
+        "11": {
+          "color": "#fff3f3",
+          "visible": true
+        },
+        "12": {
+          "color": "#edbaba",
+          "visible": true
+        },
+        "13": {
+          "color": "#ce3c3c",
+          "visible": true
+        },
+        "14": {
+          "color": "#ffe29a",
+          "visible": true
+        },
+        "15": {
+          "color": "#aeb9db",
+          "visible": true
+        },
+        "16": {
+          "color": "#a8893a",
+          "visible": true
+        },
+        "17": {
+          "color": "#3449a0",
+          "visible": true
+        },
+        "18": {
+          "color": "#995555",
+          "visible": true
+        },
+        "19": {
+          "color": "#3aa894",
+          "visible": true
+        },
+        "20": {
+          "color": "#ff7718",
+          "visible": true
+        },
+        "21": {
+          "color": "#976fc1",
+          "visible": true
+        },
+        "22": {
+          "color": "#9e6e6e",
+          "visible": true
+        },
+        "23": {
+          "color": "#7479a0",
+          "visible": true
+        },
+        "24": {
+          "color": "#999999",
+          "visible": true
+        },
+        "25": {
+          "color": "#999999",
+          "visible": true
+        },
+        "26": {
+          "color": "#564a4a",
+          "visible": true
+        },
+        "27": {
+          "color": "#61cbdb",
+          "visible": true
+        },
+        "28": {
+          "color": "#fc82b0",
+          "visible": true
+        },
+        "29": {
+          "color": "#999999",
+          "visible": false
+        },
+        "30": {
+          "color": "#c9c288",
+          "visible": false
+        },
+        "31": {
+          "color": "#9fd3b8",
+          "visible": false
+        },
+        "32": {
+          "color": "#dd8a3d",
+          "visible": false
+        },
+        "33": {
+          "color": "#a391b5",
+          "visible": false
+        },
+        "34": {
+          "color": "#839369",
+          "visible": false
+        }
+      }
+    },
+    "folders": {
+      "Ambient Light 1": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Point Light 1": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Point Light 2": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Point Light 3": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "B": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "BE": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "BH": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "BM": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "C": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "CB": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "Ce": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "CH": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "CO": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "DG": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "E": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "ES": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "G": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "GV": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "I": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "IS": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "RSO": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "S": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "ST": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "T": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "TO": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VD": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "SK": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PN": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "BN": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VN": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "R": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PS": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      }
+    }
+  },
+  "params": {
+    "ambientLights": [
+      {
+        "color": "#404040",
+        "intensity": 1,
+        "name": "ambientLight1"
+      }
+    ],
+    "pointLights": [
+      {
+        "color": "#ffffff",
+        "intensity": 3.5,
+        "maxRange": 100,
+        "decay": 1,
+        "position": {
+          "x": 50,
+          "y": 50,
+          "z": 50
+        },
+        "name": "pointLight1"
+      },
+      {
+        "color": "#ffffff",
+        "intensity": 1.8,
+        "maxRange": 100,
+        "decay": 1,
+        "position": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "name": "pointLight2"
+      },
+      {
+        "color": "#ffffff",
+        "intensity": 1,
+        "maxRange": 100,
+        "decay": 1,
+        "position": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "name": "pointLight3"
+      }
+    ],
+    "colors": [
+      {
+        "color": "#aa444d",
+        "visible": true,
+        "name": "B"
+      },
+      {
+        "color": "#60657a",
+        "visible": true,
+        "name": "BE"
+      },
+      {
+        "color": "#ffc400",
+        "visible": true,
+        "name": "BH"
+      },
+      {
+        "color": "#87c5e0",
+        "visible": true,
+        "name": "BM"
+      },
+      {
+        "color": "#fff3f3",
+        "visible": true,
+        "name": "C"
+      },
+      {
+        "color": "#edbaba",
+        "visible": true,
+        "name": "CB"
+      },
+      {
+        "color": "#ce3c3c",
+        "visible": true,
+        "name": "Ce"
+      },
+      {
+        "color": "#ffe29a",
+        "visible": true,
+        "name": "CH"
+      },
+      {
+        "color": "#aeb9db",
+        "visible": true,
+        "name": "CO"
+      },
+      {
+        "color": "#a8893a",
+        "visible": true,
+        "name": "DG"
+      },
+      {
+        "color": "#3449a0",
+        "visible": true,
+        "name": "E"
+      },
+      {
+        "color": "#995555",
+        "visible": true,
+        "name": "ES"
+      },
+      {
+        "color": "#3aa894",
+        "visible": true,
+        "name": "G"
+      },
+      {
+        "color": "#ff7718",
+        "visible": true,
+        "name": "GV"
+      },
+      {
+        "color": "#976fc1",
+        "visible": true,
+        "name": "I"
+      },
+      {
+        "color": "#9e6e6e",
+        "visible": true,
+        "name": "IS"
+      },
+      {
+        "color": "#7479a0",
+        "visible": true,
+        "name": "RSO"
+      },
+      {
+        "color": "#999999",
+        "visible": true,
+        "name": "S"
+      },
+      {
+        "color": "#999999",
+        "visible": true,
+        "name": "ST"
+      },
+      {
+        "color": "#564a4a",
+        "visible": true,
+        "name": "T"
+      },
+      {
+        "color": "#61cbdb",
+        "visible": true,
+        "name": "TO"
+      },
+      {
+        "color": "#fc82b0",
+        "visible": true,
+        "name": "VD"
+      },
+      {
+        "color": "#999999",
+        "visible": false,
+        "name": "SK"
+      },
+      {
+        "color": "#c9c288",
+        "visible": false,
+        "name": "PN"
+      },
+      {
+        "color": "#9fd3b8",
+        "visible": false,
+        "name": "BN"
+      },
+      {
+        "color": "#dd8a3d",
+        "visible": false,
+        "name": "VN"
+      },
+      {
+        "color": "#a391b5",
+        "visible": false,
+        "name": "R"
+      },
+      {
+        "color": "#839369",
+        "visible": false,
+        "name": "PS"
+      }
+    ]
+  }
+}

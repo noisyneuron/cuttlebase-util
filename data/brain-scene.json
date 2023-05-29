@@ -1,0 +1,1179 @@
+{
+  "guiData": {
+    "preset": "Default",
+    "closed": false,
+    "remembered": {
+      "Default": {
+        "0": {
+          "color": "#404040",
+          "intensity": 1
+        },
+        "1": {
+          "color": "#ffffff",
+          "intensity": 3.5183227625088094,
+          "maxRange": 100,
+          "decay": 1
+        },
+        "2": {
+          "x": 50,
+          "y": 50,
+          "z": 50
+        },
+        "3": {
+          "color": "#ffffff",
+          "intensity": 1.77061310782241,
+          "maxRange": 100,
+          "decay": 1
+        },
+        "4": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "5": {
+          "color": "#FFFFFF",
+          "intensity": 1,
+          "maxRange": 100,
+          "decay": 1
+        },
+        "6": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "7": {
+          "attachLightToCamera": true
+        },
+        "8": {
+          "opacity": 1,
+          "shininess": 0
+        },
+        "9": {
+          "opacity": 0,
+          "shininess": 0
+        },
+        "10": {
+          "color": "#7f3c1a",
+          "visible": true
+        },
+        "11": {
+          "color": "#54413e",
+          "visible": true
+        },
+        "12": {
+          "color": "#54413e",
+          "visible": true
+        },
+        "13": {
+          "color": "#9d4741",
+          "visible": true
+        },
+        "14": {
+          "color": "#fc7143",
+          "visible": true
+        },
+        "15": {
+          "color": "#ac7444",
+          "visible": true
+        },
+        "16": {
+          "color": "#ffbab9",
+          "visible": true
+        },
+        "17": {
+          "color": "#ffbab9",
+          "visible": true
+        },
+        "18": {
+          "color": "#e23b33",
+          "visible": true
+        },
+        "19": {
+          "color": "#83385f",
+          "visible": true
+        },
+        "20": {
+          "color": "#83385f",
+          "visible": true
+        },
+        "21": {
+          "color": "#e8b1e4",
+          "visible": true
+        },
+        "22": {
+          "color": "#b7d6d3",
+          "visible": true
+        },
+        "23": {
+          "color": "#b7d6d3",
+          "visible": true
+        },
+        "24": {
+          "color": "#68533d",
+          "visible": true
+        },
+        "25": {
+          "color": "#68533d",
+          "visible": true
+        },
+        "26": {
+          "color": "#45567a",
+          "visible": true
+        },
+        "27": {
+          "color": "#5ca7a9",
+          "visible": true
+        },
+        "28": {
+          "color": "#5ca7a9",
+          "visible": true
+        },
+        "29": {
+          "color": "#b10e0e",
+          "visible": true
+        },
+        "30": {
+          "color": "#b10e0e",
+          "visible": true
+        },
+        "31": {
+          "color": "#f2823b",
+          "visible": true
+        },
+        "32": {
+          "color": "#d7b230",
+          "visible": true
+        },
+        "33": {
+          "color": "#daffff",
+          "visible": true
+        },
+        "34": {
+          "color": "#daffff",
+          "visible": true
+        },
+        "35": {
+          "color": "#d7b230",
+          "visible": true
+        },
+        "36": {
+          "color": "#d2454f",
+          "visible": true
+        },
+        "37": {
+          "color": "#d2454f",
+          "visible": true
+        },
+        "38": {
+          "color": "#494949",
+          "visible": true
+        },
+        "39": {
+          "color": "#494949",
+          "visible": true
+        },
+        "40": {
+          "color": "#f9c6c6",
+          "visible": true
+        },
+        "41": {
+          "color": "#81244d",
+          "visible": true
+        },
+        "42": {
+          "color": "#81244d",
+          "visible": true
+        },
+        "43": {
+          "color": "#999999",
+          "visible": true
+        },
+        "44": {
+          "color": "#999999",
+          "visible": true
+        },
+        "45": {
+          "color": "#d66e9d",
+          "visible": true
+        },
+        "46": {
+          "color": "#d66e9d",
+          "visible": true
+        },
+        "47": {
+          "color": "#aa444d",
+          "visible": true
+        },
+        "48": {
+          "color": "#c4875d",
+          "visible": true
+        },
+        "49": {
+          "color": "#c4875d",
+          "visible": true
+        },
+        "50": {
+          "color": "#aa444d",
+          "visible": true
+        },
+        "51": {
+          "color": "#593939",
+          "visible": true
+        },
+        "52": {
+          "color": "#593939",
+          "visible": true
+        },
+        "53": {
+          "color": "#cda789",
+          "visible": true
+        },
+        "54": {
+          "color": "#465ee0",
+          "visible": true
+        },
+        "55": {
+          "color": "#465ee0",
+          "visible": true
+        },
+        "56": {
+          "color": "#faaaaa",
+          "visible": true
+        },
+        "57": {
+          "color": "#f9d3d3",
+          "visible": true
+        },
+        "58": {
+          "color": "#90cf92",
+          "visible": true
+        },
+        "59": {
+          "color": "#90cf92",
+          "visible": true
+        },
+        "60": {
+          "color": "#bbc0d1",
+          "visible": true
+        },
+        "61": {
+          "color": "#bbc0d1",
+          "visible": true
+        },
+        "62": {
+          "color": "#c4743d",
+          "visible": true
+        },
+        "63": {
+          "color": "#f9d3d3",
+          "visible": true
+        },
+        "64": {
+          "color": "#b09658",
+          "visible": true
+        },
+        "65": {
+          "color": "#8c6b55",
+          "visible": true
+        },
+        "66": {
+          "color": "#995b45",
+          "visible": true
+        },
+        "67": {
+          "color": "#995b45",
+          "visible": true
+        },
+        "68": {
+          "color": "#c666b5",
+          "visible": true
+        },
+        "69": {
+          "color": "#dd8a8a",
+          "visible": true
+        },
+        "70": {
+          "color": "#e59376",
+          "visible": true
+        },
+        "71": {
+          "color": "#e59376",
+          "visible": true
+        },
+        "72": {
+          "color": "#ff8f93",
+          "visible": true
+        },
+        "73": {
+          "color": "#7699d1",
+          "visible": true
+        },
+        "74": {
+          "color": "#9b9b9b",
+          "visible": false
+        },
+        "75": {
+          "color": "#999999",
+          "visible": false
+        },
+        "76": {
+          "color": "#fff3f3",
+          "visible": false
+        },
+        "77": {
+          "color": "#906d99",
+          "visible": false
+        },
+        "78": {
+          "color": "#906d99",
+          "visible": false
+        },
+        "79": {
+          "color": "#3565ad",
+          "visible": false
+        },
+        "80": {
+          "color": "#3565ad",
+          "visible": false
+        },
+        "81": {
+          "color": "#d9dba1",
+          "visible": false
+        },
+        "82": {
+          "color": "#d9dba1",
+          "visible": false
+        }
+      }
+    },
+    "folders": {
+      "Ambient Light 1": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Point Light 1": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Point Light 2": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Point Light 3": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Options": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Material Settings: parts": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "Material Settings: glass": {
+        "preset": "Default",
+        "closed": true,
+        "folders": {}
+      },
+      "AAB": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "ADCl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "ADCr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "AMC": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "AP": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "APB": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "AVCl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "AVCr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "B": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "BPCr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "BPCl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "DB": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "DLl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "DLr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "DMl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "DMr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "DV": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "Fl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "Fr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "IBl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "IBr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "IF": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LBl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LBPCl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LBPCr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LBr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LPl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LPr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LPVl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "LPVr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "MB": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OABl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OABr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "ODMl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "ODMr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OGl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OGr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "Ol": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OLl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OLr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "Or": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OVl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "OVr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PC": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PCl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PCr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PF": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "Pl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PMl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PMr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PNl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PNr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PP": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "Pr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "PV": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "SF": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "SOTl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "SOTr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "SV": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "V": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VMl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VMr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VOC": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VV": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "GLASS": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "SK": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "C": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "COl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "COr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VSl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "VSr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "HRl": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      },
+      "HRr": {
+        "preset": "Default",
+        "closed": false,
+        "folders": {}
+      }
+    }
+  },
+  "params": {
+    "ambientLights": [
+      {
+        "color": "#404040",
+        "intensity": 1,
+        "name": "ambientLight1"
+      }
+    ],
+    "pointLights": [
+      {
+        "color": "#ffffff",
+        "intensity": 3.5183227625088094,
+        "maxRange": 100,
+        "decay": 1,
+        "position": {
+          "x": 50,
+          "y": 50,
+          "z": 50
+        },
+        "name": "pointLight1"
+      },
+      {
+        "color": "#ffffff",
+        "intensity": 1.77061310782241,
+        "maxRange": 100,
+        "decay": 1,
+        "position": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "name": "pointLight2"
+      },
+      {
+        "color": "#FFFFFF",
+        "intensity": 1,
+        "maxRange": 100,
+        "decay": 1,
+        "position": {
+          "x": -50,
+          "y": -50,
+          "z": 50
+        },
+        "name": "pointLight3"
+      }
+    ],
+    "materials": {
+      "parts": {
+        "opacity": 1,
+        "shininess": 0
+      },
+      "glass": {
+        "opacity": 0,
+        "shininess": 0
+      }
+    },
+    "options": {
+      "attachLightToCamera": true
+    },
+    "colors": [
+      {
+        "color": "#7f3c1a",
+        "visible": true,
+        "name": "AAB"
+      },
+      {
+        "color": "#54413e",
+        "visible": true,
+        "name": "ADCl"
+      },
+      {
+        "color": "#54413e",
+        "visible": true,
+        "name": "ADCr"
+      },
+      {
+        "color": "#9d4741",
+        "visible": true,
+        "name": "AMC"
+      },
+      {
+        "color": "#fc7143",
+        "visible": true,
+        "name": "AP"
+      },
+      {
+        "color": "#ac7444",
+        "visible": true,
+        "name": "APB"
+      },
+      {
+        "color": "#ffbab9",
+        "visible": true,
+        "name": "AVCl"
+      },
+      {
+        "color": "#ffbab9",
+        "visible": true,
+        "name": "AVCr"
+      },
+      {
+        "color": "#e23b33",
+        "visible": true,
+        "name": "B"
+      },
+      {
+        "color": "#83385f",
+        "visible": true,
+        "name": "BPCr"
+      },
+      {
+        "color": "#83385f",
+        "visible": true,
+        "name": "BPCl"
+      },
+      {
+        "color": "#e8b1e4",
+        "visible": true,
+        "name": "DB"
+      },
+      {
+        "color": "#b7d6d3",
+        "visible": true,
+        "name": "DLl"
+      },
+      {
+        "color": "#b7d6d3",
+        "visible": true,
+        "name": "DLr"
+      },
+      {
+        "color": "#68533d",
+        "visible": true,
+        "name": "DMl"
+      },
+      {
+        "color": "#68533d",
+        "visible": true,
+        "name": "DMr"
+      },
+      {
+        "color": "#45567a",
+        "visible": true,
+        "name": "DV"
+      },
+      {
+        "color": "#5ca7a9",
+        "visible": true,
+        "name": "Fl"
+      },
+      {
+        "color": "#5ca7a9",
+        "visible": true,
+        "name": "Fr"
+      },
+      {
+        "color": "#b10e0e",
+        "visible": true,
+        "name": "IBl"
+      },
+      {
+        "color": "#b10e0e",
+        "visible": true,
+        "name": "IBr"
+      },
+      {
+        "color": "#f2823b",
+        "visible": true,
+        "name": "IF"
+      },
+      {
+        "color": "#79495c",
+        "visible": true,
+        "name": "LBl"
+      },
+      {
+        "color": "#daffff",
+        "visible": true,
+        "name": "LBPCl"
+      },
+      {
+        "color": "#daffff",
+        "visible": true,
+        "name": "LBPCr"
+      },
+      {
+        "color": "#79495c",
+        "visible": true,
+        "name": "LBr"
+      },
+      {
+        "color": "#d2454f",
+        "visible": true,
+        "name": "LPl"
+      },
+      {
+        "color": "#d2454f",
+        "visible": true,
+        "name": "LPr"
+      },
+      {
+        "color": "#494949",
+        "visible": true,
+        "name": "LPVl"
+      },
+      {
+        "color": "#494949",
+        "visible": true,
+        "name": "LPVr"
+      },
+      {
+        "color": "#f9c6c6",
+        "visible": true,
+        "name": "MB"
+      },
+      {
+        "color": "#81244d",
+        "visible": true,
+        "name": "OABl"
+      },
+      {
+        "color": "#81244d",
+        "visible": true,
+        "name": "OABr"
+      },
+      {
+        "color": "#999999",
+        "visible": true,
+        "name": "ODMl"
+      },
+      {
+        "color": "#999999",
+        "visible": true,
+        "name": "ODMr"
+      },
+      {
+        "color": "#d66e9d",
+        "visible": true,
+        "name": "OGl"
+      },
+      {
+        "color": "#d66e9d",
+        "visible": true,
+        "name": "OGr"
+      },
+      {
+        "color": "#aa444d",
+        "visible": true,
+        "name": "Ol"
+      },
+      {
+        "color": "#c4875d",
+        "visible": true,
+        "name": "OLl"
+      },
+      {
+        "color": "#c4875d",
+        "visible": true,
+        "name": "OLr"
+      },
+      {
+        "color": "#aa444d",
+        "visible": true,
+        "name": "Or"
+      },
+      {
+        "color": "#593939",
+        "visible": true,
+        "name": "OVl"
+      },
+      {
+        "color": "#593939",
+        "visible": true,
+        "name": "OVr"
+      },
+      {
+        "color": "#cda789",
+        "visible": true,
+        "name": "PC"
+      },
+      {
+        "color": "#465ee0",
+        "visible": true,
+        "name": "PCl"
+      },
+      {
+        "color": "#465ee0",
+        "visible": true,
+        "name": "PCr"
+      },
+      {
+        "color": "#faaaaa",
+        "visible": true,
+        "name": "PF"
+      },
+      {
+        "color": "#f9d3d3",
+        "visible": true,
+        "name": "Pl"
+      },
+      {
+        "color": "#90cf92",
+        "visible": true,
+        "name": "PMl"
+      },
+      {
+        "color": "#90cf92",
+        "visible": true,
+        "name": "PMr"
+      },
+      {
+        "color": "#bbc0d1",
+        "visible": true,
+        "name": "PNl"
+      },
+      {
+        "color": "#bbc0d1",
+        "visible": true,
+        "name": "PNr"
+      },
+      {
+        "color": "#c4743d",
+        "visible": true,
+        "name": "PP"
+      },
+      {
+        "color": "#f9d3d3",
+        "visible": true,
+        "name": "Pr"
+      },
+      {
+        "color": "#b09658",
+        "visible": true,
+        "name": "PV"
+      },
+      {
+        "color": "#8c6b55",
+        "visible": true,
+        "name": "SF"
+      },
+      {
+        "color": "#995b45",
+        "visible": true,
+        "name": "SOTl"
+      },
+      {
+        "color": "#995b45",
+        "visible": true,
+        "name": "SOTr"
+      },
+      {
+        "color": "#c666b5",
+        "visible": true,
+        "name": "SV"
+      },
+      {
+        "color": "#dd8a8a",
+        "visible": true,
+        "name": "V"
+      },
+      {
+        "color": "#e59376",
+        "visible": true,
+        "name": "VMl"
+      },
+      {
+        "color": "#e59376",
+        "visible": true,
+        "name": "VMr"
+      },
+      {
+        "color": "#ff8f93",
+        "visible": true,
+        "name": "VOC"
+      },
+      {
+        "color": "#7699d1",
+        "visible": true,
+        "name": "VV"
+      },
+      {
+        "color": "#9b9b9b",
+        "visible": false,
+        "name": "GLASS"
+      },
+      {
+        "color": "#999999",
+        "visible": false,
+        "name": "SK"
+      },
+      {
+        "color": "#fff3f3",
+        "visible": false,
+        "name": "C"
+      },
+      {
+        "color": "#906d99",
+        "visible": false,
+        "name": "COl"
+      },
+      {
+        "color": "#906d99",
+        "visible": false,
+        "name": "COr"
+      },
+      {
+        "color": "#959faf",
+        "visible": false,
+        "name": "VSl"
+      },
+      {
+        "color": "#959faf",
+        "visible": false,
+        "name": "VSr"
+      },
+      {
+        "color": "#d9dba1",
+        "visible": false,
+        "name": "HRl"
+      },
+      {
+        "color": "#d9dba1",
+        "visible": false,
+        "name": "HRr"
+      }
+    ]
+  }
+}

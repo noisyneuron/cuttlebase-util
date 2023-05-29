@@ -1,0 +1,58 @@
+index,name,abbreviation,hasSides,function
+0,Supraesophageal mass,,,
+0-0,Vertical lobe complex,,,
+0-0-0,Vertical lobe,V,N,Learning and memory
+0-0-1,Subvertical lobe,SV,N,Learning and memory
+0-0-2,Superior frontal lobe,SF,N,Learning and memory
+0-0-3,Inferior frontal lobe,IF,N,Learning and memory
+0-0-4,Posterior frontal lobe,PF,N,Learning and memory
+0-1,Basal lobe complex,,,
+0-1-0,Anterior anterior basal lobe,AAB,N,"Higher motor control (movement of head, arms and eyes)"
+0-1-1,Anterior posterior basal lobe,APB,N,Higher motor control
+0-1-2,Precommissural lobe,PC,N,Higher motor control
+0-1-3,Dorsal basal lobe,DB,N,Higher motor control
+0-1-4,Interbasal lobes,IB,Y,Higher motor control (movement of feeding tentacles)
+0-1-5,Median basal lobe,MB,N,"Higher motor control (movement of mantle and funnel during swimming and breathing, movement of fins, chromatophores and buccal mass)"
+0-1-6,Lateral basal lobes,LB,Y,Higher motor control (control of chromatophores and papillae)
+1,Subesophageal mass,,,
+1-0,Pedal lobe complex,,,
+1-0-0,Anterior pedal lobe,AP,N,Intermediate motor control (movement of arms and tentacles)
+1-0-1,Posterior pedal lobe,PP,N,"Lower motor control (movement of funnel, fins and tentacles; head retraction)"
+1-0-2,Lateral pedal lobes,LP,Y,Lower motor control (movement of eyes)
+1-0-3,Anterior dorsal chromatophore lobes,ADC,Y,Lower motor control (chromatophores & papillae on head and arms)
+1-0-4,Anterior ventral chromatophore lobes,AVC,Y,Lower motor control (chromatophores & papillae on head and arms)
+1-1,Magnocellular lobe complex,,,
+1-1-0,Dorsal magnocellular lobes,DM,Y,Intermediate motor center (breathing)
+1-1-1,Ventral magnocellular lobes,VM,Y,Intermediate motor center (breathing)
+1-1-2,Posterior magnocellular lobes,PM,Y,Intermediate motor center (breathing)
+1-2,Palliovisceral lobe complex,,,
+1-2-0,Palliovisceral lobe,PV,N,Lower motor control (escape movements and ink ejection)
+1-2-1,Lateral ventral palliovisceral lobes,LPV,Y,Lower motor control
+1-2-2,Fin lobes,F,Y,Lower motor control (movement of fins)
+1-2-3,Posterior chromatophore lobes,PC,Y,"Lower motor control (chromatophores & papillae on mantle, fin and visceral mass)"
+1-2-4,Dorsal vasomotor lobe,DV,N,Lower motor control
+1-2-5,Ventral vasomotor lobe,VV,N,Lower motor control
+1-3,Brachial lobe complex,,,
+1-3-0,Brachial lobe,B,N,Intermediate motor control (arms)
+1-3-1,Superior buccal lobe,SB,N,Lower motor control (buccal mass)
+1-3-2,Inferior buccal lobe,IB,N,Lower motor control (buccal mass)
+2,Periesophageal mass,,,
+2-0,Optic-tract complex,,,
+2-0-0,Optic lobes,O,Y,Visual processing
+2-0-1,Peduncle lobes,P,Y,Intermediate visual-motor center
+2-0-2,Dorsolateral lobes,DL,Y,Intermediate visual-motor center
+2-0-3,Optic glands,OG,Y,Hormone secretion
+2-0-4,Olfactory lobes,OL,Y,
+3,Nerve fibers,,,
+3-0,Ventral optic commissure,VOC,N,
+3-1,Optic to anterior basal lobe tracts,OAB,Y,
+3-2,Subvertical to optic tracts,SOT,Y,
+3-3,Lateral basal to posterior chromatophore lobe tracts,LBPC,Y,
+3-4,Brachio-palliovisceral connectives,BPC,Y,
+3-5,Anterior magnocellular commissure,AMC,N,
+3-6,Pallial nerves,PN,Y, Innervates the muscles and skin of the mantle
+3-7,Optic to vertical lobe tracts,OV,Y,
+3-8,Optic to dorsal magnocellular lobe tracts,ODM,Y,
+3-9,Collar nerves,CO,Y,Innervates the collar muscles and valves of the mantle
+3-10,Visceral nerves,VS,Y,Innervates retractor muscles of the head and funnel, ink sac, heart, main blood vessels and digestive, excretory and reproductive systems
+3-11,Head retractor nerves,HR,Y,Innervates the muscles that connect the head to the mantle

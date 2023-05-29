@@ -1,0 +1,10 @@
+
+    horizontalCropDims="8926 5655 951 0"
+    horizontalResizeDims="1785"
+  
+    sagittalCropDims="5390 5755 604 756"
+    sagittalResizeDims="1078"
+  
+    transverseCropDims="9603 5136 969 780"
+    transverseResizeDims="1921"
+  

@@ -1,0 +1,57 @@
+{
+  "orientations": [
+    {
+      "name": "horizontal",
+      "layerCount": 44,
+      "width": 11154,
+      "height": 6054,
+      "cssDims": {
+        "width": 1043.41,
+        "height": 566.38
+      },
+      "cssCrop": {
+        "width": 835,
+        "height": 529,
+        "left": 89,
+        "top": 0
+      }
+    },
+    {
+      "name": "sagittal",
+      "layerCount": 48,
+      "width": 6564,
+      "height": 7133,
+      "cssDims": {
+        "width": 521.3,
+        "height": 566.39
+      },
+      "cssCrop": {
+        "width": 428,
+        "height": 457,
+        "left": 48,
+        "top": 60
+      }
+    },
+    {
+      "name": "transverse",
+      "layerCount": 72,
+      "width": 11154,
+      "height": 6310,
+      "cssDims": {
+        "width": 1001.23,
+        "height": 566.39
+      },
+      "cssCrop": {
+        "width": 862,
+        "height": 461,
+        "left": 87,
+        "top": 70
+      }
+    }
+  ],
+  "stains": [
+    "neurotrace",
+    "phalloidin"
+  ],
+  "resizeFactor": 0.2
+}
